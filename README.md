@@ -1,13 +1,14 @@
 # Dashboard streamlit
 
-bibliotecas usadas:
--streamlit: para criação do dashboard web
--pandas: usada para manipulação da planilha de dados em excel
--plotly.express: utilizada para criação dos gráficos interativos 
--os: permite a interação com o sistema operacional 
+bibliotecas usadas:<br>
+streamlit: para criação do dashboard web <br>
+pandas: usada para manipulação da planilha de dados em excel <br>
+plotly.express: utilizada para criação dos gráficos interativos <br>
+os: permite a interação com o sistema operacional  <br>
 
 
-Insights que podemos tirar do dashboard: 
--Qual mês teve o maior faturamento 
--Quais países tiveram mais vendas 
--Quais foram os produtos mais vendidos
+Insights que podemos tirar do dashboard: <br>
+Qual mês teve o maior faturamento <br>
+Quais países tiveram mais vendas <br>
+Quais foram os produtos mais vendidos
+<br>
